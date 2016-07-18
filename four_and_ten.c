@@ -7,4 +7,6 @@ if(n==13){
 else if (n>9){
  y=n-9
 }
+else
+y=1;
 }
